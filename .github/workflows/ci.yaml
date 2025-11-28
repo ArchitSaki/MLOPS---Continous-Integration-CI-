@@ -28,4 +28,5 @@ jobs :
 
     - name: Run tests
       run: |
-        pytest test_.py
+        pytest test_power.py
+        
